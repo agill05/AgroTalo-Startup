@@ -1,0 +1,3 @@
+- [x] Replace webhook URL in resources/views/chat.blade.php
+- [x] Replace webhook URL in resources/views/layouts/app.blade.php
+- [ ] Verify changes by checking the files
